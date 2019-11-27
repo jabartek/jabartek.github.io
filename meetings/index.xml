@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetings on Koło Fotograficzne</title>
+    <link>/meetings/</link>
+    <description>Recent content in Meetings on Koło Fotograficzne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    
+	<atom:link href="/meetings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regularne zajęcia</title>
+      <link>/meetings/191203/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meetings/191203/</guid>
+      <description>Zapewne omówimy zdjęcia z poprzedniego tygodnia, ale miejcie też ze sobą wszystkie pozostałe zdjęcia i sprawy, które chcecie omówić :)</description>
+    </item>
+    
+    <item>
+      <title>Regularne zajęcia - przygotowanie pod studio</title>
+      <link>/meetings/191120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meetings/191120/</guid>
+      <description>Spotkamy się, by przygotować się do wyjścia do studia w następnym tygodniu. Porozmawiamy o świetle i sprzęcie, ale miejcie też swoje zdjęcia! :)</description>
+    </item>
+    
+    <item>
+      <title>Wyjście do studia</title>
+      <link>/meetings/191127/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meetings/191127/</guid>
+      <description>Tak jak omówiliśmy na zajęciach, w przyszłym tygodniu planujemy wyjście do studia. Przed zajęciami zapoznajcie się koniecznie z wykładem o świetle.
+Spotykamy się o godz. 15:10 przed szkołą, by udać się do studia Sunbox &amp;ndash; tam planujemy godzinną sesję od 16:00 do 17:00.</description>
+    </item>
+    
+  </channel>
+</rss>

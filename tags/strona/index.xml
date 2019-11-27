@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>strona on Koło Fotograficzne</title>
+    <link>/tags/strona/</link>
+    <description>Recent content in strona on Koło Fotograficzne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Wed, 27 Nov 2019 01:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/strona/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nowa strona Kółka!</title>
+      <link>/posts/191127-nowastrona/</link>
+      <pubDate>Wed, 27 Nov 2019 01:00:00 +0100</pubDate>
+      
+      <guid>/posts/191127-nowastrona/</guid>
+      <description>Po paru dniach zgłębiania przeze mnie wiedzy w zakresie języka Go oraz frameworka webowego Hugo w końcu powstała Ona &amp;ndash; nowa strona naszego kółka! Tak, ta na którą właśnie patrzycie!
+Docelowo będą znajdować się tu wszelkie wykłady (dwa zostały skopiowane z dawnej strony &amp;ndash; więcej dotrze kiedyś™), informacje o następnych i odbytych zajęciach i przede wszystkim nasze zdjęcia &amp;ndash; ale nad tą ostatnią sekcją będzie jeszcze trochę pracy.</description>
+    </item>
+    
+  </channel>
+</rss>

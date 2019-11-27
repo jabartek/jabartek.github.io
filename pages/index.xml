@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Koło Fotograficzne</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Koło Fotograficzne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kiedy jest koło?</title>
+      <link>/pages/when/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/when/</guid>
+      <description>Koło odbywa się w środy o godz. 15:10 w Ciemni (s. 222) w XIV LO im. Stanisława Staszica w Warszawie. Wszelkie odstępstwa od tego terminu będą publikowane na stronie :)
+Adres szkoły:
+XIV LO im. Stanisława Staszica w Warszawie
+Ul. Nowowiejska 37a
+02-776 Warszawa</description>
+    </item>
+    
+    <item>
+      <title>O nas</title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>Kim jesteśmy?
+Koło fotograficzne to cotygodniowe spotkanie, na którym robimy zdjęcia, rozmawiamy o zdjęciach i pracujemy ze zdjęciami. Ale nie tylko :) Zespół koła stanowią:
+ Jan Amborski &amp;ndash; do uzupełnienia Bartłomiej Janowski &amp;ndash; do uzupełnienia Michał K &amp;ndash; do uzupełnienia  Poza tymi osobami, na koło uczęszczają:
+ Osoba 1 &amp;ndash; do uzupełnienia Osoba 2 &amp;ndash; do uzupełnienia Osoba 3 &amp;ndash; do uzupełnienia  Gdzie pracujemy?
+Spotykamy się przede wszysktim w Ciemni (s.</description>
+    </item>
+    
+  </channel>
+</rss>

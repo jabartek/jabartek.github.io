@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peoples on Koło Fotograficzne</title>
+    <link>/people/</link>
+    <description>Recent content in Peoples on Koło Fotograficzne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    
+	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bartłomiej Janowski</title>
+      <link>/people/b_janowski/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/b_janowski/</guid>
+      <description>Strona w drodze</description>
+    </item>
+    
+    <item>
+      <title>Jan Amborski</title>
+      <link>/people/j_amborski/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/j_amborski/</guid>
+      <description>Absolwent Staszica, były MATEX. Potem Wydział Mechaniczny Energetyki i Lotnictwa, po przeciwnej niż Staszic stronie skrzyżowania ulicy Nowowiejskiej i alei Nipodległości. Następnie, w styczniu 2006, obronił doktorat na Wydziale Samochodów i Maszyn Roboczych Politechniki Warszawskiej .
+Fotografią zainteresował się w liceum. W zasadzie z konieczności. Egzamin z fotografii był jednym z koniecznych do zdobycia Złotej Odznaki Pałacu Młodzieży w Warszawie. Uczęszczał do pracowni fotografii Pałacu, prowadzonej przez Małgorzatę Mikołajczyk i Annę Białą, gdzie niedługo potem został asystentem.</description>
+    </item>
+    
+    <item>
+      <title>Michał K</title>
+      <link>/people/michal_k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/michal_k/</guid>
+      <description>Strona w drodze</description>
+    </item>
+    
+  </channel>
+</rss>

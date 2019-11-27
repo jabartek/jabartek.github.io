@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>podstawy on Koło Fotograficzne</title>
+    <link>/tags/podstawy/</link>
+    <description>Recent content in podstawy on Koło Fotograficzne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Sat, 04 Oct 2008 08:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/podstawy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wykład o kompozycji</title>
+      <link>/lectures/wyklad-kompozycja/</link>
+      <pubDate>Sat, 04 Oct 2008 08:00:00 +0100</pubDate>
+      
+      <guid>/lectures/wyklad-kompozycja/</guid>
+      <description>Jak pokazać odbiorcom to o co nam chodziło w zdjęciu?
+Za pomocą:
+ światła (główny obiekt oświetlony- tło niedoświetlone, obiekt ciemny- tło prześwietlone)
+ sztucznego tła (np. zdj. do paszportu)
+ operacja ostrością (np. wszystko poza gł. obiektem jest nieostre)
+ kompozycją  Jakie są typy kompozycji?
+ ułożenie plam
+ ułożenie granic między plamami  Mocne punkty zdjęcia.
+Dzielimy boki zdjęcia według złotego podziału. Przecięcie się linij wskazuje mocny punkt.</description>
+    </item>
+    
+  </channel>
+</rss>

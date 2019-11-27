@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>światło on Koło Fotograficzne</title>
+    <link>/tags/%C5%9Bwiat%C5%82o/</link>
+    <description>Recent content in światło on Koło Fotograficzne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Fri, 31 Oct 2008 08:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/%C5%9Bwiat%C5%82o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wykład o świetle</title>
+      <link>/lectures/wyklad-swiatlo/</link>
+      <pubDate>Fri, 31 Oct 2008 08:00:00 +0100</pubDate>
+      
+      <guid>/lectures/wyklad-swiatlo/</guid>
+      <description>WYKŁAD O ŚWIETLE (czyli wprowadzenie do lamp błyskowych)
+ Ciało doskonale czarne &amp;ndash; pojęcie powstałe dzięki fizykom. Jest to ciało całkowicie pochłaniające światło. W rzeczywistości nie istnieje, ale za jego przykład można wziąć czarną wnękę z małym otworem przez który wpada światło. Światło odbija sie pod różnymi kątami aż końcu ginie we wnęce. Ciało doskonale czarne emituje promieniowanie elektromagnetyczne &amp;ndash; np. światło o różnym kolorze (jak wsadzimy np. igłę pod palnik też się rozgrzewa i emituje czerwone, potem białe a na końcu niebieskie światło).</description>
+    </item>
+    
+  </channel>
+</rss>

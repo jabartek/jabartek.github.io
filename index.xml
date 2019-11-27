@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koło Fotograficzne</title>
+    <link>/</link>
+    <description>Recent content on Koło Fotograficzne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Wed, 27 Nov 2019 01:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nowa strona Kółka!</title>
+      <link>/posts/191127-nowastrona/</link>
+      <pubDate>Wed, 27 Nov 2019 01:00:00 +0100</pubDate>
+      
+      <guid>/posts/191127-nowastrona/</guid>
+      <description>Po paru dniach zgłębiania przeze mnie wiedzy w zakresie języka Go oraz frameworka webowego Hugo w końcu powstała Ona &amp;ndash; nowa strona naszego kółka! Tak, ta na którą właśnie patrzycie!
+Docelowo będą znajdować się tu wszelkie wykłady (dwa zostały skopiowane z dawnej strony &amp;ndash; więcej dotrze kiedyś™), informacje o następnych i odbytych zajęciach i przede wszystkim nasze zdjęcia &amp;ndash; ale nad tą ostatnią sekcją będzie jeszcze trochę pracy.</description>
+    </item>
+    
+    <item>
+      <title>Wykład o świetle</title>
+      <link>/lectures/wyklad-swiatlo/</link>
+      <pubDate>Fri, 31 Oct 2008 08:00:00 +0100</pubDate>
+      
+      <guid>/lectures/wyklad-swiatlo/</guid>
+      <description>WYKŁAD O ŚWIETLE (czyli wprowadzenie do lamp błyskowych)
+ Ciało doskonale czarne &amp;ndash; pojęcie powstałe dzięki fizykom. Jest to ciało całkowicie pochłaniające światło. W rzeczywistości nie istnieje, ale za jego przykład można wziąć czarną wnękę z małym otworem przez który wpada światło. Światło odbija sie pod różnymi kątami aż końcu ginie we wnęce. Ciało doskonale czarne emituje promieniowanie elektromagnetyczne &amp;ndash; np. światło o różnym kolorze (jak wsadzimy np. igłę pod palnik też się rozgrzewa i emituje czerwone, potem białe a na końcu niebieskie światło).</description>
+    </item>
+    
+    <item>
+      <title>Wykład o kompozycji</title>
+      <link>/lectures/wyklad-kompozycja/</link>
+      <pubDate>Sat, 04 Oct 2008 08:00:00 +0100</pubDate>
+      
+      <guid>/lectures/wyklad-kompozycja/</guid>
+      <description>Jak pokazać odbiorcom to o co nam chodziło w zdjęciu?
+Za pomocą:
+ światła (główny obiekt oświetlony- tło niedoświetlone, obiekt ciemny- tło prześwietlone)
+ sztucznego tła (np. zdj. do paszportu)
+ operacja ostrością (np. wszystko poza gł. obiektem jest nieostre)
+ kompozycją  Jakie są typy kompozycji?
+ ułożenie plam
+ ułożenie granic między plamami  Mocne punkty zdjęcia.
+Dzielimy boki zdjęcia według złotego podziału. Przecięcie się linij wskazuje mocny punkt.</description>
+    </item>
+    
+    <item>
+      <title>Bartłomiej Janowski</title>
+      <link>/people/b_janowski/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/b_janowski/</guid>
+      <description>Strona w drodze</description>
+    </item>
+    
+    <item>
+      <title>Jan Amborski</title>
+      <link>/people/j_amborski/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/j_amborski/</guid>
+      <description>Absolwent Staszica, były MATEX. Potem Wydział Mechaniczny Energetyki i Lotnictwa, po przeciwnej niż Staszic stronie skrzyżowania ulicy Nowowiejskiej i alei Nipodległości. Następnie, w styczniu 2006, obronił doktorat na Wydziale Samochodów i Maszyn Roboczych Politechniki Warszawskiej .
+Fotografią zainteresował się w liceum. W zasadzie z konieczności. Egzamin z fotografii był jednym z koniecznych do zdobycia Złotej Odznaki Pałacu Młodzieży w Warszawie. Uczęszczał do pracowni fotografii Pałacu, prowadzonej przez Małgorzatę Mikołajczyk i Annę Białą, gdzie niedługo potem został asystentem.</description>
+    </item>
+    
+    <item>
+      <title>Kiedy jest koło?</title>
+      <link>/pages/when/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/when/</guid>
+      <description>Koło odbywa się w środy o godz. 15:10 w Ciemni (s. 222) w XIV LO im. Stanisława Staszica w Warszawie. Wszelkie odstępstwa od tego terminu będą publikowane na stronie :)
+Adres szkoły:
+XIV LO im. Stanisława Staszica w Warszawie
+Ul. Nowowiejska 37a
+02-776 Warszawa</description>
+    </item>
+    
+    <item>
+      <title>Michał K</title>
+      <link>/people/michal_k/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/michal_k/</guid>
+      <description>Strona w drodze</description>
+    </item>
+    
+    <item>
+      <title>O nas</title>
+      <link>/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/about/</guid>
+      <description>Kim jesteśmy?
+Koło fotograficzne to cotygodniowe spotkanie, na którym robimy zdjęcia, rozmawiamy o zdjęciach i pracujemy ze zdjęciami. Ale nie tylko :) Zespół koła stanowią:
+ Jan Amborski &amp;ndash; do uzupełnienia Bartłomiej Janowski &amp;ndash; do uzupełnienia Michał K &amp;ndash; do uzupełnienia  Poza tymi osobami, na koło uczęszczają:
+ Osoba 1 &amp;ndash; do uzupełnienia Osoba 2 &amp;ndash; do uzupełnienia Osoba 3 &amp;ndash; do uzupełnienia  Gdzie pracujemy?
+Spotykamy się przede wszysktim w Ciemni (s.</description>
+    </item>
+    
+    <item>
+      <title>Regularne zajęcia</title>
+      <link>/meetings/191203/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meetings/191203/</guid>
+      <description>Zapewne omówimy zdjęcia z poprzedniego tygodnia, ale miejcie też ze sobą wszystkie pozostałe zdjęcia i sprawy, które chcecie omówić :)</description>
+    </item>
+    
+    <item>
+      <title>Regularne zajęcia - przygotowanie pod studio</title>
+      <link>/meetings/191120/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meetings/191120/</guid>
+      <description>Spotkamy się, by przygotować się do wyjścia do studia w następnym tygodniu. Porozmawiamy o świetle i sprzęcie, ale miejcie też swoje zdjęcia! :)</description>
+    </item>
+    
+    <item>
+      <title>Wyjście do studia</title>
+      <link>/meetings/191127/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meetings/191127/</guid>
+      <description>Tak jak omówiliśmy na zajęciach, w przyszłym tygodniu planujemy wyjście do studia. Przed zajęciami zapoznajcie się koniecznie z wykładem o świetle.
+Spotykamy się o godz. 15:10 przed szkołą, by udać się do studia Sunbox &amp;ndash; tam planujemy godzinną sesję od 16:00 do 17:00.</description>
+    </item>
+    
+  </channel>
+</rss>
